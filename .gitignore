@@ -6,3 +6,4 @@ __pycache__
 __pycache__/
 assets/external/
 .idea/
+.DS_Store

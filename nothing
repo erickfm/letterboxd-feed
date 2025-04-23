@@ -1,0 +1,7 @@
+
+    cola, colb = st.columns([1, 2])
+    username = cola.text_input("Username")
+    submit_clicked = colb.button("Submit")
+
+    if submit_clicked and username:
+        query_params["username"] = username

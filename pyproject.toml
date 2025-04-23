@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "letterboxd-feed"
+name = "cinemaclub"
 version = "0.1.0"
 description = ""
 authors = ["Erick <efm.physics@gmail.com>"]
